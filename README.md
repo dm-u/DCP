@@ -1,6 +1,12 @@
 # DCP
 Custom DCP profiles for Nikon Z 50.
 
+## Installing
+
+Download \*.dcp files to C:\Users\<username>\AppData\Roaming\Adobe\CameraRaw\CameraProfiles. Restart Lightroom.
+
+## Examples
+
 Adobe Standard (for reference):
 ![Adobe Standard](https://github.com/dm-u/DCP/raw/main/Flowers%20Adobe%20Standard.jpg)
 
